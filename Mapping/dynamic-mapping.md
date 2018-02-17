@@ -105,3 +105,4 @@ GET /product/default/_mapping
 ```
 
 > for description there are multiple types-> "text" and "keyword"
+text type is used for full text search and keyword type is used for exact matches, aggregations etc 
