@@ -6,7 +6,7 @@ similar to schema in sql databases
 GET /product/default/_mapping
 ```
 
-<code>
+```
   {
   "product": {
     "mappings": {
@@ -102,6 +102,6 @@ GET /product/default/_mapping
     }
   }
 }
-</code>
+```
 
 > for description there are multiple types-> "text" and "keyword"
