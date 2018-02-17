@@ -1,4 +1,5 @@
 # Changing existing mappings
+#### mappings of existing fields cannot be changed, we have to delete the index and create mapping
 
 ## Deleting the index
 
@@ -32,3 +33,5 @@ PUT /product
   }
 }
 ```
+
+"default" is the type name
