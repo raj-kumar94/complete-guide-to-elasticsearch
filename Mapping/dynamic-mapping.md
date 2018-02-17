@@ -1,5 +1,5 @@
 # Dynamic mapping
-
+similar to schema in sql databases
 ## Retrieving mapping
 
 ```
