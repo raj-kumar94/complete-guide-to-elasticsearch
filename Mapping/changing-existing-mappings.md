@@ -35,3 +35,6 @@ PUT /product
 ```
 
 "default" is the type name
+```
+GET product/default/1
+```
