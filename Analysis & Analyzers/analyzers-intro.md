@@ -12,5 +12,6 @@ Analyzers consists of 3 things:
 ```
 List of Token fileters: https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-tokenfilters.html
 List of Language Analyzers: https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-lang-analyzer.html
+List of built-in Tokenizers: https://www.elastic.co/guide/en/elasticsearch/reference/6.2/analysis-tokenizers.html
 List of built-in Analyzers: https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-analyzers.html
 ```
